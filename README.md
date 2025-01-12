@@ -1,4 +1,4 @@
-# Generative-AI-Personalized-Real-State-Agent
+# Generative-AI-Personalized-Real-Estate-Agent
 
 ## Overview
 HomeMatch is an innovative real estate application designed to revolutionize the property search process by tailoring property listings to each buyer's unique preferences. Using Large Language Models (LLMs) and Vector Databases, the application transforms standard real estate listings into personalized narratives, making the home-buying experience more engaging and tailored to individual needs.
